@@ -1,5 +1,7 @@
 # GIM
-Corso di Grafica in movimento 2025 / SUPSI   
+**Daniele Falcone CV1**  
+Corso di Grafica in movimento 2025 / SUPSI  
+
 
 
 
