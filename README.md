@@ -19,3 +19,6 @@ Corso di Grafica in movimento 2025 / SUPSI
 	- [Animazione Logo](https://dadiccs.github.io/gim/esercizio_1B/index.html) 
 - Esercizio 1C
 	- [Commento testo]()
+
+- Esercizio 3B
+	- [Orologio](https://dadiccs.github.io/gim/esercizio_3B/index.html)
