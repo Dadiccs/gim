@@ -22,6 +22,7 @@ Corso di Grafica in movimento 2025 / SUPSI
 
 - Esercizio 2
 	- [Parallasse](https://dadiccs.github.io/gim/esercizio_2/index.html)
-
+- Esercizio 3A
+	- [Neve](https://dadiccs.github.io/gim/esercizio_3A/neve/index.html)
 - Esercizio 3B
 	- [Orologio](https://dadiccs.github.io/gim/esercizio_3B/index.html)
