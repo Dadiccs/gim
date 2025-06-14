@@ -20,5 +20,8 @@ Corso di Grafica in movimento 2025 / SUPSI
 - Esercizio 1C
 	- [Commento testo]()
 
+- Esercizio 2
+	- [Parallasse](https://dadiccs.github.io/gim/esercizio_2/index.html)
+
 - Esercizio 3B
 	- [Orologio](https://dadiccs.github.io/gim/esercizio_3B/index.html)
