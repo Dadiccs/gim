@@ -18,7 +18,7 @@ Corso di Grafica in movimento 2025 / SUPSI
 - Esercizio 1B
 	- [Animazione Logo](https://dadiccs.github.io/gim/esercizio_1B/index.html) 
 - Esercizio 1C
-	- [Commento testo](https://dadiccs.github.io/gim/esercizio_1C/README.md)
+	- [Commento testo](https://github.com/Dadiccs/gim/tree/main/esercizio_1C)
 - Esercizio 2
 	- [Parallasse](https://dadiccs.github.io/gim/esercizio_2/index.html)
 - Esercizio 3A
